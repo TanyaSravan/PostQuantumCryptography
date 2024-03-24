@@ -23,7 +23,7 @@ involved in Shor's algorithm.
 * Analyze the results to demonstrate the algorithm's ability to factor integers
 exponentially faster than classical methods for specific key sizes.
 
-3. Complexity Analysis: We will perform a comparative analysis of the time
+3. __Complexity Analysis:__ We will perform a comparative analysis of the time
 complexities of classical and quantum code-breaking algorithms. This analysis will
 highlight the exponential speedup offered by Shor's algorithm, emphasizing the
 significant advantage it holds over classical approaches for factoring large numbers.
