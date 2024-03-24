@@ -14,6 +14,7 @@ research papers and articles to gain a deeper understanding of:
 * Quantum code-breaking techniques, with a specific emphasis on Shor's
 algorithm and its theoretical foundation in quantum mechanics concepts like
 superposition and entanglement.
+* Understand exsisting algoritms that are not broken by quantum cryptography and explore the fundamental properties behind such processes
 
 __Expected Outcomes:__
 * Gain a deeper understanding of the theoretical underpinnings of classical and
