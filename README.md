@@ -15,19 +15,6 @@ research papers and articles to gain a deeper understanding of:
 algorithm and its theoretical foundation in quantum mechanics concepts like
 superposition and entanglement.
 
-2. __Simulation:__ We will develop a simulated implementation of Shor's algorithm
-using a classical programming language like Python or C++. This simulation will:
-* Utilize quantum circuit libraries to represent the quantum operations
-involved in Shor's algorithm.
-* Simulate the algorithm's execution on a simulated quantum computer.
-* Analyze the results to demonstrate the algorithm's ability to factor integers
-exponentially faster than classical methods for specific key sizes.
-
-3. __Complexity Analysis:__ We will perform a comparative analysis of the time
-complexities of classical and quantum code-breaking algorithms. This analysis will
-highlight the exponential speedup offered by Shor's algorithm, emphasizing the
-significant advantage it holds over classical approaches for factoring large numbers.
-
 __Expected Outcomes:__
 * Gain a deeper understanding of the theoretical underpinnings of classical and
 quantum code-breaking algorithms.
