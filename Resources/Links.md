@@ -1,2 +1,7 @@
 1. [Post-Quantum Cryptography: A Q&A With NIST’s Matt Scholl](https://www.nist.gov/blogs/taking-measure/post-quantum-cryptography-qa-nists-matt-scholl)
 2. [Lattice Based Cryptography - IBM Intro ](https://research.ibm.com/projects/lattice-based-cryptography)
+3. [Post-quantum cryptography: Security after Shor’s algorithm](https://www.youtube.com/watch?v=_C5dkUiiQnw)
+4. [Lattice-based cryptography: The tricky math of dots](https://www.youtube.com/watch?v=QDdOoYdb748)
+5. [Learning with errors: Encrypting with unsolvable equations](https://www.youtube.com/watch?v=K026C5YaB3A)
+6. [Chaos and Encryption](https://www.youtube.com/playlist?list=PLOyOTTEgL5rGGIkMIegb5sv6feodBrvbJ)
+7. [The Story of Shor's Algorithm, Straight From the Source | Peter Shor](https://www.youtube.com/watch?v=6qD9XElTpCE)
