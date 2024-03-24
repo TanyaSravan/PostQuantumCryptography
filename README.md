@@ -30,3 +30,5 @@ methods through a simulated implementation and complexity analysis.
 * Raise awareness of the urgency for developing and implementing post-quantum
 cryptography (PQC) to mitigate the threat of quantum attacks on existing encryption
 schemes.
+
+__Team:__ Tanya Sravan, Eshwar SK
