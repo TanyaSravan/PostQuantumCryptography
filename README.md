@@ -1,9 +1,6 @@
 # PostQuantumCryptography
 ### Exploring Quantum Code-Breaking and its Advantages
-__Abstract:__ This project delves into the potential of quantum computing for code-breaking,
-specifically focusing on its advantages over classical computing methods. We will explore
-the limitations of classical algorithms like brute force, which exhibit exponential time
-complexity when dealing with complex encryption schemes.
+__Abstract:__ The rise of quantum computers poses a significant threat to current public-key cryptography. Shor's algorithm can efficiently break widely used schemes like RSA that rely on the difficulty of factoring large numbers or solving the discrete logarithm problem. Post-quantum cryptography (PQC) emerges as a critical response, offering new algorithms resistant to both classical and quantum attacks.
 
 __Focus:__ Our primary focus will be on __post quantum cryptography__ and how classical encryption (Like RSA and ECC) is at a risk due to Quantum computers. We will be exploring what post quantum cryptography does to address this?
 
