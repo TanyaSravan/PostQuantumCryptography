@@ -10,14 +10,14 @@ __Focus:__ Our primary focus will be on __post quantum cryptography__ and how cl
 ### Methodology:
 1. __Literature review:__ We will conduct a comprehensive literature review of relevant
 research papers and articles to gain a deeper understanding of:
-○ Classical code-breaking techniques, including brute force and cryptanalysis.
-○ Quantum code-breaking techniques, with a specific emphasis on Shor's
+* Classical code-breaking techniques, including brute force and cryptanalysis.
+* Quantum code-breaking techniques, with a specific emphasis on Shor's
 algorithm and its theoretical foundation in quantum mechanics concepts like
 superposition and entanglement.
 
 2. __Simulation:__ We will develop a simulated implementation of Shor's algorithm
 using a classical programming language like Python or C++. This simulation will:
-○ Utilize quantum circuit libraries to represent the quantum operations
+* Utilize quantum circuit libraries to represent the quantum operations
 involved in Shor's algorithm.
 * Simulate the algorithm's execution on a simulated quantum computer.
 * Analyze the results to demonstrate the algorithm's ability to factor integers
