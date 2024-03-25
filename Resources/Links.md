@@ -8,3 +8,4 @@
 8. [Learning with errors: Encrypting with unsolvable equations](https://www.youtube.com/watch?v=K026C5YaB3A)
 9. [Chaos and Encryption](https://www.youtube.com/playlist?list=PLOyOTTEgL5rGGIkMIegb5sv6feodBrvbJ)
 10. [SIKE: The Quantum-Safe Algorithm Defeated by One Core](https://www.youtube.com/watch?v=JXs8cuWu_Wo&t=304s)
+11. [Post-quantum cryptography: Supersingular isogenies for beginners](https://www.youtube.com/watch?v=9B7jq7Mgiwc)
