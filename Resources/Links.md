@@ -7,4 +7,4 @@
 7. [Lattice-based cryptography: The tricky math of dots](https://www.youtube.com/watch?v=QDdOoYdb748)
 8. [Learning with errors: Encrypting with unsolvable equations](https://www.youtube.com/watch?v=K026C5YaB3A)
 9. [Chaos and Encryption](https://www.youtube.com/playlist?list=PLOyOTTEgL5rGGIkMIegb5sv6feodBrvbJ)
-10. 
+10. [SIKE: The Quantum-Safe Algorithm Defeated by One Core](https://www.youtube.com/watch?v=JXs8cuWu_Wo&t=304s)
