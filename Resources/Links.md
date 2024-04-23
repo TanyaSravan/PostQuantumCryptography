@@ -11,3 +11,4 @@
 11. [Post-quantum cryptography: Supersingular isogenies for beginners](https://www.youtube.com/watch?v=9B7jq7Mgiwc)
 12. [Code-based cryptography I - Basic concepts and McElice system](https://www.youtube.com/watch?v=9EC2taInna4&list=PL6hzlGxGIS1DcTZq6Fv1yq0_dmqDaNN4v)\
 13. [The McEliece Cryptosystem](https://www.youtube.com/watch?v=fLwMvbfr76g)
+14. [Lattices and Kyber PQC Presentation](https://www.youtube.com/watch?v=zsEj28SFyCs)
