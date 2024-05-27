@@ -13,11 +13,9 @@ algorithm and its theoretical foundation in quantum mechanics concepts like
 superposition and entanglement.
 * Understand exsisting algoritms that are not broken by quantum cryptography and explore the fundamental properties behind such processes
 2. __Implementation:__ We will try to implement algorithms to understand the field of post quantum cryptography which includes:
-* Lattice based cryptography techniques like the Crystal-Kyber technique
-* Code Based cryptography like McEliece cryptosystem
-* Some Multivariate cryptography algorithms
-3. __Analysis:__ Final goal is to compare the different fields of cryptography and analyze the benefits to each of them. We seek to propose and explain the various PQC solutions, suggest some improvements to them and demonstrate a limited practical implementation for various use cases.
-
-We seek to explore methods of post-quantum cryptography and report on them. The idea is to compare and contrast other ways of creating np hard problems for quantum computers. Following the report we seek to either propose a possible improvement on one of the lattice or non lattice based technique’s algorithms or alternatively pick a novel domain of mathematically complex problems and use them to make a simple encryption algorithm that confirms to standards of post-quantum cryptography, a possible domain that was __chaos modelling__ and __chaos based cryptography__.
+* Lattice based cryptography techniques like the Crystal-Kyber technique (Primary Focus)
+3. __Analysis:__ Final goal is to understand Crystal Kyber in detail and implement it for all the security levels. Do a complete test by solving all the KAT tests and see the perfomance times for all t
+  
+We seek to explore methods of post-quantum cryptography and report on them. The idea is to compare and contrast ways of creating np hard problems for quantum computers. Following the report we seek implement one of the lattice and report on the time and the nature of the algorithm. We aim to make this algoritm efficient so as to satisfy and pass standard testcases.
 
 __Team:__ Tanya Sravan, Eshwar SK
